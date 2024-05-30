@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.o.dir/main.cpp.o  -o main.o   -L/home/lizihan/ethercat_test/lib/SOEM/install/lib  -Wl,-rpath,/home/lizihan/ethercat_test/lib/SOEM/install/lib -lsoem -lpthread 
